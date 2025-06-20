@@ -1,1 +1,0 @@
-The words are ARRAY, STACK, QUEUE and JAVA
